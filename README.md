@@ -31,6 +31,9 @@ The source files are structured as follows:
 - `prestudy` contains a project assignment where the students should dig deeper 
   into a problem related to the security field.  This could be used as 
   a pre-study for a thesis topic.
+- `application` contains a project assignment where the students should either 
+  improve existing products or services or, in the case there are none, design 
+  a new product or service where some security result is the main "enabler".
 
 In each directory the files are structured as follows:
 
