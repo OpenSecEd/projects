@@ -31,6 +31,10 @@ The source files are structured as follows:
 - `prestudy` contains a project assignment where the students should dig deeper 
   into a problem related to the security field.  This could be used as 
   a pre-study for a thesis topic.
+- `devel` contains a project assignment where the students should develop 
+  a design for a solution to a problem. It should be both secure and usable.  
+  It should use the state-of-the-art techniques for privacy, security and 
+  usability.
 
 In each directory the files are structured as follows:
 
