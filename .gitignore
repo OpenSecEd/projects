@@ -1,3 +1,10 @@
+aliascnt.sty
+llncs.cls
+llncs2e.zip
+remreset.sty
+splncs03.bst
+sprmindx.sty
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
