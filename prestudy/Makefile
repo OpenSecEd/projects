@@ -4,7 +4,11 @@ all: prestudy.pdf
 FILES=		prestudy.tex prestudy.bib
 
 prestudy.pdf: ${FILES}
-prestudy.pdf: llncs
+
+
+.PHONY: clean
+clean:
+	${RM} prestudy.pdf
 
 
 INCLUDE_MAKEFILES=../makefiles

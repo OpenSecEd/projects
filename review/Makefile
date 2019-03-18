@@ -4,7 +4,11 @@ all: review.pdf
 FILES=		review.tex aims.tex literature.tex
 
 review.pdf: ${FILES}
-review.pdf: llncs
+
+
+.PHONY: clean
+clean:
+	${RM} review.pdf
 
 
 INCLUDE_MAKEFILES=../makefiles
